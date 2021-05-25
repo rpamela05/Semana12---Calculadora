@@ -1,0 +1,16 @@
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Calculator.dll
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Calculator.pdb
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.dll
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.pdb
+E:\Usuarios\rpame\Descargas\Xamarin_Forms___Basic_Calculator (1)\Calculator\obj\Debug\Calculator.Views.MainPage.xaml.g.cs
